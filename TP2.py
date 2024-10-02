@@ -159,4 +159,4 @@ with open(file_emprunts, mode='r', encoding='utf-8') as file:
 print(f' \n Bibliotheque avec ajout des retards et frais : {bibliotheque} \n')
 
 
-print('allo')
+
