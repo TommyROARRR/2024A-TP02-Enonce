@@ -49,7 +49,7 @@ Attention : Ne pas ajouter les livres qui sont déjà présents dans la collecti
   - Si la cote de rangement est déjà dans la collection :
       ```
       "Le livre {cote_rangement} ---- {titre} par {auteur} ---- est déjà présent dans la bibliothèque"
-      ```
+      ```date
 
 ### Partie 3 : Modification de la cote de rangement d'une sélection de livres (3 points)
 La bibliothèque souhaite faire des rénovations, et aimerait déplacer sa collection de Shakespeare dans une nouvelle rangée identifiée par "WS". Par conséquent, pour tous les livres de l'auteur William Shakespeare, la cote de rangement, qui débute actuellement par "S" suivi de 3 chiffres, devra être modifiée dans le système de gestion par "WS", suivi des mêmes trois chiffres qu'auparavant. (Par exemple, le livre ayant la cote "S028" devra être changé à "WS028"). 
